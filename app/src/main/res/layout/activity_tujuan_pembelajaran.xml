@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TujuanPembelajaran">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:text="Setelah mempelajari bab ini,
+kalian mampu (a) membaca
+dan menulis algoritma dengan
+notasi yang benar, memahami
+proses pemrograman dengan
+menggunakan bahasa
+pemrograman; (b) memahami
+konsep variabel dan ekspresi
+dalam membuat program; (c)
+memahami penggunaan struktur
+kontrol keputusan, struktur
+kontrol perulangan, dan fungsi
+dalam membuat program."
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Materi">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:text="Algoritma
+Algoritma adalah suatu kumpulan instruksi terstruktur dan terbatas yang dapat
+diimplementasikan dalam bentuk program komputer untuk menyelesaikan
+suatu permasalahan komputasi tertentu. Algoritma merupakan bentuk dari
+suatu strategi atau ‘resep’ yang kalian gunakan untuk menyelesaikan suatu
+masalah. Algoritma lahir dari suatu proses berpikir komputasional oleh
+seseorang untuk menemukan solusi dari suatu permasalahan yang diberikan.
+Dengan demikian, berpikir komputasional merupakan keahlian yang kalian
+perlukan untuk dapat membuat algoritma, program, atau suatu karya
+informatika yang dapat digunakan dengan efektif dan efisien.
+Setelah kalian menganalisis suatu problem menggunakan teknik abstraksi
+dan dekomposisi lalu menyusun algoritma dengan melakukan pengenalan
+pola dari problem sejenis, algoritma tersebut harus direpresentasikan dalam
+bentuk yang dapat dipahami oleh orang lain. Selain itu, karena pada akhirnya
+strategi tersebut akan diubah dalam bentuk kode program, algoritma harus
+ditulis dalam bentuk yang terdefinisi dengan baik (well-defined) dengan jumlah
+langkah yang terbatas. Algoritma adalah abstraksi dari sebuah program
+sehingga kemampuan menuliskan algoritma dengan baik akan membantu
+kalian dalam membuat program yang baik dan benar.
+Pada bagian ini, kalian akan mempelajari dua cara untuk merepresentasikan
+algoritma, yaitu diagram alir dan pseudocode."
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

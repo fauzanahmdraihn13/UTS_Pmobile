@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Apersepsi">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:text="Selama ini, mungkin kalian telah menggunakan banyak sekali produk
+perangkat lunak baik di komputer personal maupun di ponsel pintar yang
+kalian gunakan. Sekarang saatnya bagi kalian untuk membuat program
+sendiri. Pada bagian ini, kalian akan berkenalan dengan konsep algoritma dan
+pemrograman. Untuk membuat program, kalian harus menggunakan salah
+satu dari banyak bahasa pemrograman yang ada. "
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="17dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
